@@ -1,5 +1,4 @@
-# Employee Manager Day 10
-
+# Employee Manager
 __Install__. 
 To start install the project node_modules by running ```npm install```
 
